@@ -1,0 +1,9 @@
+
+server:
+  port: 43556
+spring:
+  application:
+    name: Spring-Batch-App
+    
+  main:
+    banner-mode: log
